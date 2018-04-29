@@ -19,4 +19,4 @@ module intermed_wire (
 	assign out_1 = intermediate_wire & in_3;
 	assign out_2 = intermediate_wire | in_3;
 	
-	endmodule;
+	endmodule

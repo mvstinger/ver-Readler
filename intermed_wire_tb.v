@@ -1,4 +1,4 @@
-module simple_in_n_out_tb ();
+module intermed_wire_tb ();
 	
 	reg in_1;
 	reg in_2;
